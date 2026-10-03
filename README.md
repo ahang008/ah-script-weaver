@@ -1,16 +1,26 @@
 # ah-script-weaver
 
 
+
+
 Agent skill for designing high-density short video script structures and information transitions.
+
+
 
 
 ## Usage
 
 
+
+
 Install this folder as an agent skill and trigger it using the commands described in `SKILL.md`.
 
 
+
+
 ## Files
+
+
 
 
 - `README.md`
@@ -21,4 +31,6 @@ Install this folder as an agent skill and trigger it using the commands describe
 - `Step4-成稿检查.md`
 - `gen_script_weaver_diagram.py`
 
-合作：AI产品测评 / 企业AI培训 / 内容获客。微信 Zephyr136。X：https://x.com/Astronaut_1216
+
+合作推广：受众在跨境出海、独立开发、AI视频、模型测评。这些方向的商单可以找我。微信 Zephyr136。X：https://x.com/Astronaut_1216
+
